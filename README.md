@@ -1,6 +1,7 @@
-## hi! :D
+<h2 align="center">hi! :D</h2>
+<img width="50%" align="left" src="https://github-readme-stats.vercel.app/api?username=eilecn&count_private=true&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true">
+<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eilecn&theme=dracula&hide_border=true">
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eilecn)](https://github.com/eilecn/github-readme-stats)
 <!--
 **eilecn/eilecn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
